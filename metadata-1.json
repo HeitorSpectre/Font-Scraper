@@ -1,0 +1,6 @@
+{
+  "name": "Font Scraper",
+  "description": "A web application to craft custom TTF fonts from characters scraped from font rendering APIs. Users can define a charset, and the app will fetch, process, and convert each character into a vector glyph, ultimately assembling them into a downloadable TTF font file.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
